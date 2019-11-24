@@ -1,0 +1,40 @@
+0028	Address Generator
+	28 pins Video Board
+	Replacement available http://www.fpgaarcade.com/parts.htm
+
+	
+0232	Data Buffer
+	28 pins Video Board
+
+
+0418	Address Buffer
+	28 pins Video Board
+	Replacement available http://www.fpgaarcade.com/parts.htm
+
+
+0518	Video Controller
+	24 pins Video Board
+
+
+0621	Master Buss Controller
+	28 pins CPU Board
+	Address selector to pull of bytes from DB.  Used for 51XX and 54XX selection
+
+
+0748	Horizontal and Vertical Sync. Generators
+	28 pins (2x) CPU & Video Board
+	Generators VRESET, HRESET, VBLANK, binary output
+	Replacement available http://www.fpgaarcade.com/parts.htm
+	
+
+0870	Buss Transceivers
+	28 pins (3x) CPU Board
+	Replacement available http://www.fpgaarcade.com/parts.htm
+
+
+5164	I/O Ports
+	42 pins CPU Board
+	Player controls
+
+5414	Custom Sound Generator
+	28 pins CPU Board
